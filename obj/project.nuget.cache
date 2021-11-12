@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FCC6im5VeY0ndmzK2PaIk/bxvhiy5lIveqzD4aBpHugKA4U026zZBe6KO28DA1NzTrRpluugjyA3MCX3YbXrrg==",
+  "success": true,
+  "projectFilePath": "D:\\.NetCorProjects\\Khodro\\Khodro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.1.2\\bootstrap.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
